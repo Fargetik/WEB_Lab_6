@@ -1,0 +1,14 @@
+{
+    "name": "david/web_lab_6",
+    "description": "что тут сказать?",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Fargetik",
+            "email": "davidonsky1234@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
